@@ -1,6 +1,6 @@
 # WeatherApp
 
-## Скриншоты
+## Screenshots
 
 ### Iphone 15
 <p align="center">
